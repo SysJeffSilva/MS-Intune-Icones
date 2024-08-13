@@ -1,6 +1,6 @@
 # MS-Intune-Icones
 
-Repositório de ícones de softwares para utilizar no Deployment Apps do Microsoft Intune.
+Repositório de ícones de softwares para utilizar no Deployment Apps no Microsoft Intune.
 
 ## Como Usar
 1. **Baixar Ícones:**
